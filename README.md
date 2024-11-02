@@ -1,1 +1,1 @@
-"# firday" 
+"# friday" 
